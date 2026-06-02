@@ -4,12 +4,21 @@ Script em Lua para automatizar e agilizar a **Shiny Hunt do Eevee** em **Pokémo
 
 O script executa automaticamente as etapas necessárias após conversar com o Bill, permitindo verificar rapidamente se o Eevee recebido é shiny.
 
-Caso você já utilize em script no DraStic sera necessario alterar o nome do script para o nome da Rom de pokemon exemplo:
+### Utilizando junto com outros scripts
 
+Caso você já utilize outro script no DraStic, será necessário renomear o arquivo deste script para que ele seja carregado automaticamente junto à ROM desejada.
+
+**Exemplo:**
+
+```text
+ROM: Pokemon-HeartGold.nds
+Script: Pokemon-HeartGold.lua
 ```
-Nome da Rom: Pokemon-HeartGold.nds
-Nome do script default.lua alterar para Pokemon-HeartGold.lua 
-```
+
+Nesse caso, renomeie o arquivo `default.lua` para `Pokemon-HeartGold.lua`, utilizando exatamente o mesmo nome da ROM (mantendo apenas a extensão `.lua`).
+
+> **Importante:** O nome do script deve corresponder exatamente ao nome do arquivo da ROM para que o DraStic o associe corretamente ao jogo.
+
 
 ---
 
