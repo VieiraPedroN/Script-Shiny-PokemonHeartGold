@@ -54,11 +54,11 @@ O espaço destinado ao Eevee deve ser o **último slot disponível da equipe**.
 
 ## Download
 
-Baixe o arquivo `.lua` disponível neste repositório.
+Baixe o arquivo `.lua` disponível neste repositório, [Dowload](https://github.com/VieiraPedroN/Script-Shiny-PokemonHeartGold/archive/refs/heads/main.zip).
 
 ## Copiando o script
 
-Após o download, mova o arquivo para a pasta de scripts do DraStic.
+Após o download extraia a pasta, mova o arquivo para a pasta de scripts do DraStic.
 
 ### Localização da pasta
 
